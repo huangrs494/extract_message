@@ -1,3 +1,3 @@
 requirement：python2
 
-目的：提取csv表格的第2列和第3列，并写入new_file中
+目的：提取csv表格的第2列和第3列，并删除无用字符，并写入new_file中
