@@ -9,3 +9,7 @@ circle_keywords£ººÏ²¢Í¬Ò»¸öÓÃ»§Í¬Ò»¸ö»°ÌâËù·¢±íµÄÄÚÈÝ£¨È·¶¨Î¨Ò»×Ö¶ÎÎªÍ¬Ò»¸öÓÃ»§º
 keyword_chinese£º¶Ô¹Ì¶¨ÁÐ£¬¹ýÂËÊý×ÖºÍÓ¢ÎÄÐÅÏ¢£¬ÌáÈ¡ÖÐÎÄÐÅÏ¢²¢ÌáÈ¡¹Ø¼ü´Ê
 
 join_keywords£º¶ÔÖÐÎÄÄÚÈÝ½øÐÐ¹Ø¼ü´ÊÌáÈ¡£¬²¢Êä³ö¶ÔÓ¦µÄ´ÊÆµ¡£
+
+circle_keywords0£ºÌá½»ÁËÒ»¸öÐÂ°æ±¾µÄºÏ²¢ÄÚÈÝ£¬²¢ÌáÈ¡ÖÐÎÄÐÅÏ¢µÄ¹Ø¼ü´Ê£¨ºÏ²¢Í¬Ò»¸ö»°ÌâµÄÄÚÈÝ£¬²¢ÌáÈ¡¹Ø¼ü×Ö£¬¶Ô»°ÌâÉú³ÉÁËÓÃ»§×Ô¶¨Òå´Êµä£©
+
+deltest£º¹ýÂË¹ã¸æ´Êtest
